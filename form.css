@@ -1,0 +1,12 @@
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    color: aquamarine;
+    font-size: large;
+}
+input{
+    height: 300px;
+    width: 50px;
+}
